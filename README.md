@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi 👋✨
 
-<!--
-**mavjz/mavjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+🌟 Hey there! I'm Maja, a 21-year-old university student with ambitions of becoming a frontend developer.
 
-Here are some ideas to get you started:
+### Connect with Me
+📧 **Email:** maja.miaskiewicz@gmail.com  
+🔗 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/maja-mi%C4%85skiewicz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech World 🚀
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nextjs,postman,react,sass,ts,vscode)  
+
+Feel free to drop me a message or connect! Let's chat about coding, life, or anything that sparks our interest 💫✨
