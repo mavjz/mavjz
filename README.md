@@ -5,7 +5,7 @@
 
 ### Connect with Me :mailbox_with_mail:
 📧 **Email:** maja.miaskiewicz@gmail.com  
-🔗 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/maja-mi%C4%85skiewicz/)
+🔗 [Let's connect on LinkedIn](https://www.linkedin.com/in/maja-mi%C4%85skiewicz/)
 
 ### My Tech World 🚀
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nextjs,postman,react,sass,ts,vscode)  
