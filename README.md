@@ -1,9 +1,9 @@
 ## Hi 👋✨
 
-### About Me
+### About Me 💫
 🌟 I'm Maja, a 21-year-old university student with ambitions of becoming a frontend developer.
 
-### Connect with Me
+### Connect with Me :mailbox_with_mail:
 📧 **Email:** maja.miaskiewicz@gmail.com  
 🔗 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/maja-mi%C4%85skiewicz/)
 
