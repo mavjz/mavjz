@@ -1,6 +1,6 @@
-## Hi 👋✨
+# Hi 👋✨
 
-### About Me 💫
+## About Me 💫
 🌟 I'm Maja, a 21-year-old university student with ambitions of becoming a frontend developer.
 
 ### Connect with Me :mailbox_with_mail:
