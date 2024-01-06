@@ -1,7 +1,7 @@
 ## Hi 👋✨
 
 ### About Me
-🌟 Hey there! I'm Maja, a 21-year-old university student with ambitions of becoming a frontend developer.
+🌟 I'm Maja, a 21-year-old university student with ambitions of becoming a frontend developer.
 
 ### Connect with Me
 📧 **Email:** maja.miaskiewicz@gmail.com  
