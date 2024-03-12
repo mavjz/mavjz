@@ -8,6 +8,6 @@
 🔗 [Let's connect on LinkedIn](https://www.linkedin.com/in/maja-mi%C4%85skiewicz/)
 
 ### My Tech World 🚀
-![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nextjs,postman,react,sass,ts,vscode)  
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nextjs,postman,react,sass,ts,tailwind,vscode)  
 
 Feel free to drop me a message or connect! Let's chat about coding, life, or anything that sparks our interest 💫✨
